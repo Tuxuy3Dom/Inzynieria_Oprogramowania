@@ -1,0 +1,6 @@
+git checkout -b "name branch" - create new branch 
+git commit -am "Komentarz naszych zmian" - create new commt in out project
+git push origin - ppuszowanie na nasz lokalny repo
+git push --set-upstream origin name branch - add out branch LAB3 to server github
+
+$ git checkout -b LAB3 origin/LAB3 - branch another open
