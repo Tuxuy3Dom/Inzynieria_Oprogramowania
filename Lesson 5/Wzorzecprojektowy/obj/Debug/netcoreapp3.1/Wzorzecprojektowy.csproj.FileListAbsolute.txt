@@ -1,0 +1,14 @@
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\bin\Debug\netcoreapp3.1\Wzorzecprojektowy.exe
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\bin\Debug\netcoreapp3.1\Wzorzecprojektowy.deps.json
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\bin\Debug\netcoreapp3.1\Wzorzecprojektowy.runtimeconfig.json
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\bin\Debug\netcoreapp3.1\Wzorzecprojektowy.runtimeconfig.dev.json
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\bin\Debug\netcoreapp3.1\Wzorzecprojektowy.dll
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\bin\Debug\netcoreapp3.1\Wzorzecprojektowy.pdb
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\obj\Debug\netcoreapp3.1\Wzorzecprojektowy.csproj.AssemblyReference.cache
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\obj\Debug\netcoreapp3.1\Wzorzecprojektowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\obj\Debug\netcoreapp3.1\Wzorzecprojektowy.AssemblyInfoInputs.cache
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\obj\Debug\netcoreapp3.1\Wzorzecprojektowy.AssemblyInfo.cs
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\obj\Debug\netcoreapp3.1\Wzorzecprojektowy.csproj.CoreCompileInputs.cache
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\obj\Debug\netcoreapp3.1\Wzorzecprojektowy.dll
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\obj\Debug\netcoreapp3.1\Wzorzecprojektowy.pdb
+C:\Users\w61863\Desktop\Inżynieria Oprogramowania\Inzynieria_Oprogramowania\Inzynieria_Oprogramowania\Lesson 5\Wzorzecprojektowy\obj\Debug\netcoreapp3.1\Wzorzecprojektowy.genruntimeconfig.cache
