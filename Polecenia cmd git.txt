@@ -4,3 +4,4 @@ git push origin - ppuszowanie na nasz lokalny repo
 git push --set-upstream origin name branch - add out branch LAB3 to server github
 
 $ git checkout -b LAB3 origin/LAB3 - branch another open
+$ git clone --branch LAB3 url - clone another branch

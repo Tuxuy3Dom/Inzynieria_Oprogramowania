@@ -1,0 +1,11 @@
+https://refactoring.guru/pl/design-patterns
+
+local storage - dla tego gdzie użytkownik był
+
+aplikacja asynchroniczna
+
+Przydatny w implementacji jakiejść funkcjonalności
+
+Wzorce projektowe - ważne jest:
+
+Możemy konkretny wzor implementować na różne sposoby
