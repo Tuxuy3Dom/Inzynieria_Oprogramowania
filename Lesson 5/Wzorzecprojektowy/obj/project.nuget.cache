@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46KhOUe8k2JFXpVmcOgocutM6tRuvlF5PKhlosV7t0QaleGKCwfansdFndPkABok0PxArPXMOVBrySHVjboHtg==",
+  "dgSpecHash": "tVwenaa8yJavWBTWtlfpQq5oGLMHZgAWtPEjD5Nwv3KysKhsncR7ne4JUAq8XhdxkcbSs/fpcKX6JUaXvE47RA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w61863\\Desktop\\Inżynieria Oprogramowania\\Inzynieria_Oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj",
+  "projectFilePath": "C:\\Users\\w61863\\Desktop\\Inżynieria oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w61863\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],

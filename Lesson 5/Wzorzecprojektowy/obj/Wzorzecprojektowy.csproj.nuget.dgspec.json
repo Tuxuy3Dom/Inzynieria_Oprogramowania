@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w61863\\Desktop\\Inżynieria Oprogramowania\\Inzynieria_Oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj": {}
+    "C:\\Users\\w61863\\Desktop\\Inżynieria oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w61863\\Desktop\\Inżynieria Oprogramowania\\Inzynieria_Oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj": {
+    "C:\\Users\\w61863\\Desktop\\Inżynieria oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w61863\\Desktop\\Inżynieria Oprogramowania\\Inzynieria_Oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj",
+        "projectUniqueName": "C:\\Users\\w61863\\Desktop\\Inżynieria oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj",
         "projectName": "Wzorzecprojektowy",
-        "projectPath": "C:\\Users\\w61863\\Desktop\\Inżynieria Oprogramowania\\Inzynieria_Oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj",
+        "projectPath": "C:\\Users\\w61863\\Desktop\\Inżynieria oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\Wzorzecprojektowy.csproj",
         "packagesPath": "C:\\Users\\w61863\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w61863\\Desktop\\Inżynieria Oprogramowania\\Inzynieria_Oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\obj\\",
+        "outputPath": "C:\\Users\\w61863\\Desktop\\Inżynieria oprogramowania\\Inzynieria_Oprogramowania\\Lesson 5\\Wzorzecprojektowy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
