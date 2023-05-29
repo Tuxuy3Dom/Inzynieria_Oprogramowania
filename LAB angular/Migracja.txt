@@ -1,0 +1,18 @@
+Konsola menedzerów pakietów - gdzie wpisujemy polecenie
+ProjektDomyślny: LAB.EntityFrameworkCore
+
+Stosujemy KamelCase w VisualStudio
+
+Migracje, Encje, API
+Encja - to co stworzone jako Car.cs 
+
+Zadanie:
+Stworzyć dwie dowolne encje - jedna powwina być powiązana z drugą 
+klucz obcy encji: dotnet foreing key 
+
+Dla migracji 
+polecenie: add-migration
+
+Dla aktualizacji bazy danych
+polecenie: update-database
+
